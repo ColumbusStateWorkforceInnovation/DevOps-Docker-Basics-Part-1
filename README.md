@@ -7,8 +7,8 @@ For this homework, you will become more familiar with the docker CLI commands in
 
 ## Getting Started:
 
-1. Copy the starter code from here into a new, private repository in your personal GitHub account using [these instructions](https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments) substituting this repository URL `https://github.com/jschmersal-cscc/infrastructure-docker-basics` for the one referenced in that document.  When adding a collaborator, be sure to add me ("cscc-luke-rouker").
-2. Create a new branch for your code changes as described in [these instructions](https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments#important-before-you-start-coding)
+1. Copy the starter code from here into a new, private repository in your personal GitHub account using the instructions you went over in class.  This repository's URL is `https://github.com/jschmersal-cscc/infrastructure-docker-basics`.  When adding a collaborator, be sure to add me ("cscc-luke-rouker").
+2. Create a new branch for your code changes as described in class.
 
 
 
@@ -19,8 +19,8 @@ Follow the instructions in the [homework](homework/) directory
 
 ## Submitting Your Work
 
-1. Create a pull request for your branch using [these instructions](https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments#push-your-changes-and-create-a-pull-request-for-grading)
-1. Submit the assignment in Blackboard as described in [these instructions](https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments#once-your-pull-request-is-reviewed-and-approved)
+1. Create a pull request for your branch using the instructions you went over in class.
+1. Submit the assignment in Blackboard as described in the instructions you went over in class.
 
 __NOTE: I will provide feedback via. comments in your pull request.__
 If you need to amend your work after you issue your initial pull request:
