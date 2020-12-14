@@ -7,7 +7,7 @@ For this homework, you will become more familiar with the docker CLI commands in
 
 ## Getting Started:
 
-1. Click the "Use Template" button in this repo to create a new, private repository for the assignment.  
+1. Click the "Use this Template" button in this repo to create a new, private repository for the assignment.  
 2. Add your instructor as a collaborator ("cscc-luke-rouker").
 3. Clone the repo you created into your VM environment (either using git clone or in IntelliJ)
 4. Create a new branch for your homework, and as you complete the assignment commit to this branch
