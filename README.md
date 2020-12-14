@@ -7,11 +7,10 @@ For this homework, you will become more familiar with the docker CLI commands in
 
 ## Getting Started:
 
-1. Copy the starter code from here into a new, private repository in your personal GitHub account using the instructions you went over in class.  This repository's URL is `https://github.com/jschmersal-cscc/infrastructure-docker-basics`.  When adding a collaborator, be sure to add me ("cscc-luke-rouker").
-2. Create a new branch for your code changes as described in class.
-
-
-
+1. Click the "Use Template" button in this repo to create a new, private repository for the assignment.  
+2. Add your instructor as a collaborator ("cscc-luke-rouker").
+3. Clone the repo you created into your VM environment (either using git clone or in IntelliJ)
+4. Create a new branch for your homework, and as you complete the assignment commit to this branch
 
 ## Completing the Assignment
 
@@ -19,8 +18,10 @@ Follow the instructions in the [homework](homework/) directory
 
 ## Submitting Your Work
 
-1. Create a pull request for your branch using the instructions you went over in class.
-1. Submit the assignment in Blackboard as described in the instructions you went over in class.
+1. Push all your changes on your branch to origin
+1. Create a bundle of your repository using git bundle as described in Blackboard
+1. Go to GitHub and create a pull request from your branch into master
+1. Submit the assignment in Blackboard and include your bundle in the assignment.
 
 __NOTE: I will provide feedback via. comments in your pull request.__
 If you need to amend your work after you issue your initial pull request:
