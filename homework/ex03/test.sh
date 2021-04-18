@@ -10,7 +10,9 @@ function fail {
 }
 
 echo "This could take a couple minutes... please wait..."
-docker pull -a alpine >> pull.log
+docker pull alpine:3.12 >> pull.log
+docker pull alpine:latest >> pull.log
+docker pull alpine:3 >> pull.log
 
 ./run.sh
 
